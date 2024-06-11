@@ -1,0 +1,629 @@
+,postid,Name,ExtractName,Address,Year,GPA400,GPA375,GPA350,GPA325,GPA300,GPA250,GPA200,GPA100,GPA000
+0,10011,American University,American University,"4400 Massachusetts Avenue, NW, Washington, District of Columbia, 20016, United States",2023-2024,15%,25%,30%,20%,7%,2%,1%,0%,0%
+1,10011,American University,American University,"4400 Massachusetts Avenue, NW, Washington, D.C. 20016",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+2,10011,American University,Western New England University,"1215 Wilbraham Road, Springfield, MA, 01119",2023-2024,36.43%,10.69%,12.66%,12.10%,11.11%,11.95%,4.92%,0.14%,0.00%
+3,10011,American University,Loyola University Maryland,"4501 North Charles Street, Baltimore, MD, 21210, USA",2023-2024,33%,23%,21%,11%,6%,5%,1%,0%,0%
+4,10012,Clark University,Clark University,"950 Main Street, Worcester, Massachusetts, 01610-1477, United States",2023-2024,31%,24%,21%,13%,7%,4%,0%,0%,0%
+5,10012,Clark University,Clark University,"950 Main Street, Worcester, MA 01610-1477",2021-2022,34%,26%,14%,11%,9%,6%,1%,,
+6,10012,Clark University,Clark University,"950 Main Street, Worcester, MA 01610-1477",2018-2019,26%,53%,19%,2%,0%,0%,0%,0%,0%
+7,10012,Clark University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+8,10013,Texas A & M University-College Station,Texas A&M University,"400 Bizzell St., College Station, Texas, 77843, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+9,10013,Texas A & M University-College Station,Texas A&M University,"College Station, TX 77843",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+10,10013,Texas A & M University-College Station,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+11,10014,University of Massachusetts-Amherst,University of Massachusetts Amherst,"Amherst, Massachusetts",2023-2024,6,0,0,0,0,0,0,0,0
+12,10079,Dartmouth College,Dartmouth College,"16016 McNutt Hall, Hanover, NH 03755",2022-2023,94.5%,98.3%,99.8%,0.2%,0.2%,,,,
+13,10079,Dartmouth College,Dartmouth College,"Hanover, NH 03755",2023-2024,20%,30%,25%,15%,5%,3%,1%,0.5%,0.5%
+14,10079,Dartmouth College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+15,10080,Vanderbilt University,Davidson College,"209 Ridge Rd Box 5000, Davidson, North Carolina, 28035, United States",2023-2024,39.00,34.00,23.00,3.00,0.70,0.30,0.00,0.00,0.00
+16,10080,Vanderbilt University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+17,10080,Vanderbilt University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+18,10081,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,"Chapel Hill, NC 27599",2022-2023,95%,3%,1%,1%,0%,0%,0%,0%,0%
+19,10081,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,"Chapel Hill, NC 27599",2021-2022,93%,3%,2%,1%,1%,,,,
+20,10081,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,"Chapel Hill, NC",2023-2024,21.0%,25.0%,18.0%,15.0%,10.0%,7.0%,3.0%,1.0%,0.0%
+21,10081,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,"Chapel Hill, North Carolina",2023-2024,0,0,0,0,0,0,0,0,0
+22,10145,Rensselaer Polytechnic Institute,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+23,10145,Rensselaer Polytechnic Institute,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,8,Percent who had GPA between 3.75 and 3.99,Percent who had GPA between 3.50 and 3.74,Percent who had GPA between 3.25 and 3.49,Percent who had GPA between 3.00 and 3.24,Percent who had GPA between 2.50 and 2.99,Percent who had GPA between 2.0 and 2.49,Percent who had GPA between 1.0 and 1.99,Percent who had GPA below 1.0
+24,10147,University of Rochester,University of Rochester,"300 Wilson Boulevard, New York, 14627-0251",2023-2024,23.5%,39.8%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+25,10147,University of Rochester,University of Rochester,"300 Wilson Boulevard, Rochester, NY 14627-0251",2022-2023,23.2%,38.9%,24.3%,9.5%,3.6%,0.7%,0.0%,0.0%,0.0%
+26,10147,University of Rochester,University of Rochester,"PO Box 270251, Rochester, NY 14627-0251",2023-2024,23.5%,36.8%,24.8%,10.6%,3.5%,0.7%,0.1%,0.0%,0.0%
+27,10147,University of Rochester,Pace University,"One Pace Plaza, New York, NY 10038",2021-2022,28.82%,0.00%,23.03%,20.61%,18.71%,7.64%,1.19%,0.00%,0.00%
+28,10148,Brandeis University,Brandeis University,"415 South St., Waltham, MA 02453",2023-2024,54%,33%,8%,3%,1%,1%,0%,0%,0%
+29,10148,Brandeis University,Brandeis University,"415 South St., Waltham, MA, 02453",2021-2022,30.36%,33.81%,20.48%,7.14%,4.64%,2.62%,0.71%,0.24%,0%
+30,10149,Case Western Reserve University,Case Western Reserve University,"10900 Euclid Ave, Cleveland, Ohio 44106, United States of America",2022-2023,15.40%,50.70%,25.80%,,,,,,
+31,10149,Case Western Reserve University,Case Western Reserve University,"10900 Euclid Ave, Cleveland, Ohio 44106, United States of America",2020-2021,7%,53%,29%,8%,3%,0%,0%,0%,0%
+32,10149,Case Western Reserve University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+33,10149,Case Western Reserve University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+34,10188,Indiana University-Bloomington,Indiana University of Pennsylvania,"1011 South Drive, Indiana, PA 15705, United States",2021-2022,19.56%,12.97%,15.13%,14.30%,12.09%,18.99%,6.27%,0.63%,0.06%
+35,10188,Indiana University-Bloomington,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,8,Percent who had GPA between 3.75 and 3.99,Percent who had GPA between 3.50 and 3.74,Percent who had GPA between 3.25 and 3.49,Percent who had GPA between 3.00 and 3.24,Percent who had GPA between 2.50 and 2.99,Percent who had GPA between 2.0 and 2.49,Percent who had GPA between 1.0 and 1.99,Percent who had GPA below 1.0
+36,10189,University of Denver,University of Denver,"2199 S. University Blvd., Denver, CO 80208 USA",2022-2023,0.00%,23.00%,17.00%,9.00%,5.00%,1.00%,0.00%,0.00%,0.00%
+37,10189,University of Denver,University of Denver,"2199 S. University Blvd. Denver, CO 80208 USA",2021-2022,35%,22%,20%,12%,8%,3%,0%,0%,0%
+38,10190,Florida State University,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+39,10191,North Carolina State University at Raleigh,North Carolina State University,"CB 7001, Raleigh, NC 27695-7001",2022-2023,20%,57%,19%,3%,1%,0%,0%,0%,0%
+40,10191,North Carolina State University at Raleigh,North Carolina State University,"CB 7001, Raleigh, NC 27695-7001, USA",2022-2023,20%,57%,19%,3%,1%,0%,0%,0%,0%
+41,10192,Stony Brook University,Stony Brook University,"Nicolls Road, Stony Brook, New York, 11794, United States",2023-2024,32.95%,31.94%,20.84%,8.69%,5.24%,0.28%,0.06%,0.00%,0.00%
+42,10192,Stony Brook University,Stony Brook University,"Nicolls Road, Stony Brook, NY, 11794",2022-2023,43.0%,27.8%,15.4%,7.8%,5.1%,0.9%,,,
+43,10192,Stony Brook University,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,27.4%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+44,10192,Stony Brook University,Stony Brook University,"Nicolls Road, Stony Brook, NY, 11794",2023-2024,42.26%,28.65%,17.66%,7.35%,3.64%,0.38%,0.06%,0.00%,0.00%
+45,10253,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,"800 Drillfield Drive, Blacksburg, Virginia, 24061, United States",2023-2024,72%,18%,9%,3%,2%,0.39%,0%,0%,0%
+46,10253,Virginia Polytechnic Institute and State University,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,7%,0%,0%,0%,0%,0%,0%,0%,0%
+47,10254,Miami University-Oxford,University of Miami,"1306 Stanford Drive, Suite 1210, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+48,10254,Miami University-Oxford,University of Miami,"Gables One Tower, Suite 260, 1320 S. Dixie Hwy., Coral Gables, FL 33146",2022-2023,35%,25%,20%,10%,5%,3%,1%,1%,0%
+49,10255,University of California-Santa Cruz,"University of California, Santa Cruz","1156 High Street, Santa Cruz, CA 95064",2022-2023,55.6%,31.2%,10.7%,1.8%,0.7%,0.0%,0.0%,0.0%,0.0%
+50,10255,University of California-Santa Cruz,Northern Michigan University,"1401 Presque Isle Avenue, Marquette, Michigan, 49855, United States",2023-2024,7,0,0,0,0,0,0,0,0
+51,10255,University of California-Santa Cruz,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,8%,20%,22%,17%,15%,12%,5%,1%,0%
+52,10256,University of Delaware,University of Delaware,"Newark, DE 19716",2021-2022,17,19,24,31,1,0,0,0,0
+53,10257,Colorado School of Mines,Brown University,"One Prospect Street, Providence, RI 02912 USA",2023-2024,28.0%,28.0%,28.0%,28.0%,28.0%,28.0%,28.0%,28.0%,28.0%
+54,10258,Michigan State University,Michigan State University,"426 Auditorium Rd, East Lansing, MI 48824",2021-2022,28.7%,30.6%,22.3%,12.6%,3.8%,1.8%,0.2%,0.0%,0.0%
+55,10258,Michigan State University,Michigan State University,"426 Auditorium Rd, East Lansing, MI 48824",2021-2022,22.92%,27.81%,23.22%,15.63%,8.24%,2.10%,0.06%,0.02%,0.01%
+56,10259,University of Iowa,University of Iowa,"101 Jessup Hall, Iowa City, IA 52242, USA",2023-2024,33.11%,29.89%,17.50%,13.01%,4.80%,1.64%,0.04%,0.00%,0.02%
+57,10259,University of Iowa,University of Iowa,"101 Jessup Hall, Iowa City, IA 52242, USA",2022-2023,33.00%,27.87%,17.75%,13.01%,6.21%,2.15%,0.02%,0.00%,0.00%
+58,10313,Boston College,Boston University,"One Silber Way, Boston MA 02215",2023-2024,39%,39%,22%,0%,0%,0%,0%,0%,0%
+59,10313,Boston College,Boston University,"One Silber Way, Boston MA 02215",2023-2024,38%,37%,24%,1%,0%,0%,0%,0%,0%
+60,10313,Boston College,Boston College,"140 Commonwealth Avenue, Chestnut Hill, MA 02467, U.S.",2021-2022,N/AV,N/AV,N/AV,N/AV,N/AV,N/AV,N/AV,N/AV,N/AV
+61,10314,University of Miami,University of Miami,"1306 Stanford Drive, Suite 1210, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+62,10314,University of Miami,University of Miami,"1320 S. Dixie Hwy., Coral Gables, FL 33146",2022-2023,35%,25%,20%,10%,5%,3%,1%,1%,0%
+63,10355,Pepperdine University,Pepperdine University,"24255 Pacific Coast Highway, Malibu, CA 90263",2023-2024,11%,35%,28%,17%,7%,2%,0%,0%,0%
+64,10355,Pepperdine University,Pepperdine University,"24255 Pacific Coast Highway, Malibu, CA 90263",2022-2023,19%,40%,28%,9%,4%,1%,<1%,0%,0%
+65,10355,Pepperdine University,Pepperdine University,"24255 Pacific Coast Highway, Malibu, CA 90263",2021-2022,14%,42%,29%,10%,4%,1%,0%,0%,0%
+66,10357,George Washington University,The George Washington University,"1918 F Street N.W., Washington, D.C. 20052 USA",2021-2022,43.66%,78.01%,95.99%,4.01%,0.32%,,,,
+67,10357,George Washington University,The George Washington University,"1918 F Street, N.W., Washington, D.C. 20052 USA",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+68,10358,Southern Methodist University,Southern Methodist University,"6425 Boaz Lane, Dallas, TX 75205",2023-2024,20%,25%,30%,15%,5%,3%,1%,0.5%,0.5%
+69,10358,Southern Methodist University,University of Southern Mississippi,"118 College Drive, Hattiesburg, Mississippi, 39406, USA",2023-2024,14.56%,21.58%,15.92%,14.21%,12.97%,14.03%,6.72%,0%,0%
+70,10359,The University of Texas at Austin,The University of Texas at Austin,"110 Inner Campus Drive, Austin, TX 78705, USA",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+71,10359,The University of Texas at Austin,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,12.1%,16.0%,23.7%,16.1%,19.1%,12.1%,1.0%,0.0%,0.0%
+72,10360,Purdue University-Main Campus,Purdue University,"475 Stadium Drive, West Lafayette, Indiana, 47906, United States",2023-2024,33.8%,32.5%,,,,,,,
+73,10360,Purdue University-Main Campus,Purdue University,"Ernest C. Young Hall, 155 S Grant St, West Lafayette, IN 47907, USA",2022-2023,12.71%,10.77%,4.02%,,,,0.24%,0.07%,
+74,10361,Syracuse University,Pitzer College,"1050 N. Mills Avenue, Claremont, California, 91711, United States",2023-2024,45.5%,33.7%,17.5%,2.0%,0.4%,0.8%,0.0%,0.0%,0.0%
+75,10446,Clemson University,Clemson University,"105 Sikes Hall, Clemson, SC 29634, United States",2023-2024,76%,12%,7%,3%,1%,0.5%,0.5%,0%,0%
+76,10446,Clemson University,Clemson University,"Clemson, South Carolina, USA",2023-2024,57%,86%,99%,N/A,N/A,N/A,N/A,N/A,N/A
+77,10446,Clemson University,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+78,10447,Yeshiva University,Yeshiva University,"500 W 185 St, New York, NY 10033",2020-2021,21.68%,13.10%,22.24%,13.08%,13.08%,12.52%,2.99%,1.31%,0%
+79,10447,Yeshiva University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+80,10447,Yeshiva University,University of Connecticut,"Storrs, CT 06269",2022-2023,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+81,10448,Brigham Young University-Provo,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+82,10448,Brigham Young University-Provo,University of Connecticut,"Storrs, CT 06269",2022-2023,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+83,10448,Brigham Young University-Provo,University of Connecticut,"Storrs, CT 06269",2022-2023,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+84,10449,Rutgers University-New Brunswick,Rutgers University — New Brunswick,"65 Davidson Road, Room #202, Piscataway, NJ 08854-8097 USA",2022-2023,29%,62%,91%,9%,1%,0%,0%,0%,0%
+85,10449,Rutgers University-New Brunswick,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+86,10450,Baylor University,Baylor University,"1320 S. 7th Street, Waco, TX 76706",2023-2024,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+87,10450,Baylor University,Baylor University,"1320 S. 7th Street, Waco, TX 76706",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+88,10450,Baylor University,Baylor University,"1320 S. 7th Street, Waco, TX 76706",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+89,10451,Stevens Institute of Technology,Stevens Institute of Technology,"1 Castle Point Terrace, Hoboken, New Jersey, 07030, United States",2023-2024,69.09,11.93,12.45,3.73,2.18,0.52,0.10,0.00,0.00
+90,10451,Stevens Institute of Technology,Stevens Institute of Technology,"1 Castle Point on Hudson, Hoboken, NJ 07030, USA",2022-2023,0%,0%,0%,0%,0%,0%,0%,0%,0%
+91,10452,University of Minnesota-Twin Cities,University of Minnesota — Twin Cities Campus,"100 Church St. SE, Minneapolis, MN, 55455, USA",2022-2023,40.8,76,98.3,1.7,0.3,,,,
+92,10452,University of Minnesota-Twin Cities,University of Minnesota — Twin Cities Campus,"100 Church St. SE, Minneapolis, MN, 55455, USA",2021-2022,100%,,,,,,,,
+93,10452,University of Minnesota-Twin Cities,Bradley University,"1501 W. Bradley Ave., Peoria, Illinois, 61625, United States",2023-2024,39.3%,20.4%,0%,0%,0%,0%,0%,0%,0%
+94,10789,SUNY College of Environmental Science and Forestry,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+95,10789,SUNY College of Environmental Science and Forestry,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+96,10789,SUNY College of Environmental Science and Forestry,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+97,10790,University at Buffalo,University at Buffalo,"12 Capen Hall, Buffalo, New York 14260-1660",2023-2024,19.7%,58.2%,21.1%,1.0%,0%,0%,0%,0%,0%
+98,10790,University at Buffalo,University at Buffalo,"12 Capen Hall, Buffalo, New York 14260-1660",2022-2023,28.9%,33%,30%,5%,3%,0.1%,0%,0%,0%
+99,10790,University at Buffalo,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,12.1%,16.0%,23.7%,16.1%,19.1%,12.1%,1.0%,0.0%,0.0%
+100,10791,Illinois Institute of Technology,Illinois Institute of Technology,"10 W. 35th St, Chicago, IL 60616",2022-2023,68.40%,15.30%,11.60%,3.10%,0.80%,0.80%,0.00%,0.00%,0.00%
+101,10791,Illinois Institute of Technology,Illinois Institute of Technology,"10 West 35th Street, Chicago, IL 60616",2020-2021,53.00%,20.00%,16.00%,8.00%,2.00%,1.00%,0.00%,0.00%,0.00%
+102,10791,Illinois Institute of Technology,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+103,10792,The University of Alabama,The University of Alabama,"Tuscaloosa, AL 35487-0132 USA",2022-2023,38%,17%,,,,,,,
+104,10792,The University of Alabama,The University of Alabama,"Box 870100, 719 University Blvd, Tuscaloosa, AL 35487-0100 USA",2020-2021,42%,18%,14%,10%,8%,7%,1%,0%,0%
+105,10792,The University of Alabama,Western New England University,"1215 Wilbraham Road, Springfield, MA, 01119",2023-2024,36.43%,10.69%,12.66%,12.10%,11.11%,11.95%,4.92%,0.14%,0.00%
+106,10792,The University of Alabama,University of South Alabama,"307 N. University Blvd., Mobile, AL, 36688, United States",2022-2023,34.76%,19.15%,16.60%,13.26%,8.05%,7.19%,0.93%,0.06%,0.00%
+107,10793,University of Oregon,University of Oregon,"1226 University of Oregon, Eugene, OR 97403-1226",2022-2023,32.8%,21.7%,20.0%,13.6%,8.5%,3.5%,0.0%,0.0%,0.0%
+108,10793,University of Oregon,University of Oregon,"1226 University of Oregon, Eugene, OR 97403-1226",2020-2021,23%,25%,21%,16%,10%,5%,0%,,
+109,10918,University of Pittsburgh-Pittsburgh Campus,University of Pittsburgh,"4200 Fifth Avenue, Pittsburgh, Pennsylvania, 15260, United States",2023-2024,67%,17%,10%,4%,1%,1%,0%,0%,0%
+110,10918,University of Pittsburgh-Pittsburgh Campus,University of Pittsburgh,"4200 Fifth Avenue, Pittsburgh, PA 15260, United States",2022-2023,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon
+111,10918,University of Pittsburgh-Pittsburgh Campus,University of Pittsburgh - Pittsburgh Campus,"4200 Fifth Avenue, Pittsburgh, PA 15260, United States",2021-2022,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon,Coming soon
+112,10921,Seton Hall University,Seton Hall University,"400 South Orange Avenue, South Orange, NJ 07079",2023-2024,44%,28%,17%,8%,4%,0%,0%,0%,0%
+113,10921,Seton Hall University,Seton Hall University,"400 South Orange Avenue, South Orange NJ 07079",2004-2005,0%,0%,0%,0%,73%,27%,0%,0%,0%
+114,10921,Seton Hall University,Stevens Institute of Technology,"1 Castle Point Terrace, Hoboken, New Jersey, 07030, United States",2023-2024,69.09,11.93,12.45,3.73,2.18,0.52,0.10,0.00,0.00
+115,10922,Temple University,Temple University,"1801 North Broad Street, Philadelphia, PA 19122",2022-2023,18.99%,14.50%,16.58%,15.61%,13.57%,17.28%,3.38%,0.07%,0.02%
+116,10922,Temple University,Temple University,"Main, Ambler, and Harrisburg Campus",2023-2024,100,0,0,0,0,0,0,0,0
+117,10922,Temple University,Temple University,"Philadelphia, PA",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+118,10922,Temple University,Temple University,"1801 N. Broad Street, Philadelphia, PA 19122",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+119,10923,University of California-Riverside,"University of California, Riverside","900 University Avenue, Riverside, CA 92521",2023-2024,40.9%,,,,,,,,
+120,10924,University of Kansas,University of Kansas,"1450 Jayhawk Boulevard, Lawrence, KS 66045",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+121,10924,University of Kansas,University of Kansas,"1450 Jayhawk Boulevard, Lawrence, KS 66045",2022-2023,35%,22%,15%,11%,8%,7%,2%,0%,0%
+122,10924,University of Kansas,University of Kansas,"Lawrence, KS, USA",2023-2024,0%,0%,0%,0%,0%,0%,0%,0%,0%
+123,10924,University of Kansas,University of Kansas,"University of Kansas, Lawrence, KS 66045",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+124,10925,University of St Thomas (MN),University of St. Thomas,"3800 Montrose Blvd., Houston, TX 77006",2021-2022,21.7%,18.4%,22.3%,14.9%,9.8%,9.4%,2.2%,0.2%,1.1%
+125,10925,University of St Thomas (MN),University of St. Thomas,"3800 Montrose Blvd., Houston, TX 77006",2020-2021,20.05%,24.45%,17.86%,14.29%,12.64%,7.14%,0.00%,0.27%,3.30%
+126,10925,University of St Thomas (MN),The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+127,10926,Catholic University of America,DeSales University,"2755 Station Avenue, Center Valley, PA 18034",2022-2023,23.46%,32.03%,15.50%,10.54%,11.92%,5.76%,0.79%,0.00%,0.00%
+128,10926,Catholic University of America,Marywood University,"2300 Adams Avenue, Scranton, PA 18509",2022-2023,15%,20%,25%,18%,12%,7%,2%,1%,0%
+129,10926,Catholic University of America,Aquinas College,"1700 Fulton St. E, Grand Rapids, MI 49506",2023-2024,15%,25%,30%,20%,5%,3%,1%,0.5%,0.5%
+130,11037,University of Nebraska-Lincoln,University of Nebraska - Lincoln,"1400 R Street, Lincoln NE 68588-0419 USA",2021-2022,17%,35%,20%,12%,9%,6%,1%,,
+131,11038,University of Oklahoma-Norman Campus,Example University,"123 College Ave, College Town, USA",2023-2024,15%,20%,25%,15%,10%,10%,3%,1%,1%
+132,11038,University of Oklahoma-Norman Campus,The University of Oklahoma,"660 Parrington Oval, Norman, Oklahoma 73019-0390 USA",2022-2023,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+133,11038,University of Oklahoma-Norman Campus,University of Oklahoma-Norman Campus,"Norman, OK",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+134,11038,University of Oklahoma-Norman Campus,The University of Oklahoma,Norman Campus,2022-2023,13.3%,35.7%,25.7%,16.3%,7.7%,1.2%,0.1%,0.0%,0.0%
+135,11038,University of Oklahoma-Norman Campus,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,7%,0%,0%,0%,0%,0%,0%,0%,0%
+136,11038,University of Oklahoma-Norman Campus,The University of Oklahoma,Norman Campus,2022-2023,20%,25%,30%,15%,5%,3%,1%,0.5%,0.5%
+137,11038,University of Oklahoma-Norman Campus,The University of Oklahoma,Norman Campus,2022-2023,Data not provided,Data not provided,Data not provided,Data not provided,Data not provided,Data not provided,Data not provided,Data not provided,Data not provided
+138,11039,University of the Pacific,Unknown College,Unknown Address,2023-2024,0%,0%,0%,0%,0%,0%,0%,0%,0%
+139,11039,University of the Pacific,University of the Pacific,"3601 Pacific Avenue, Stockton, CA, 95211, USA",2023-2024,8.30%,39.22%,24.17%,14.19%,7.63%,5.49%,0.40%,0.00%,0.00%
+140,11039,University of the Pacific,University of the Pacific,"3601 Pacific Avenue, Stockton, CA, 95211, USA",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+141,11039,University of the Pacific,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,21.0%,5.0%,1.4%,0.0%,0.0%,0.0%,0.0%,0.0%
+142,11039,University of the Pacific,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+143,11040,University of Utah,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+144,11040,University of Utah,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+145,11040,University of Utah,Unknown University,Unknown Address,2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+146,11040,University of Utah,Unknown University,Unknown Address,2023-2024,0,0,0,0,0,0,0,0,0
+147,11040,University of Utah,Unknown University,Unknown Address,2023-2024,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+148,11040,University of Utah,University of Utah,"201 Presidents Cir, Salt Lake City, UT 84112",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+149,11040,University of Utah,Unknown College,Unknown Address,2023-2024,43.0%,7.0%,13.0%,62.0%,38.0%,0.0%,18,21,18
+150,11041,Michigan Technological University,Michigan Technological University,"1400 Townsend Drive, Houghton, MI 49931",2022-2023,31.84%,31.91%,18.74%,9.55%,5.64%,2.32%,,,
+151,11041,Michigan Technological University,University of Michigan,"500 S. State Street, Ann Arbor, MI 48109 USA",2023-2024,Percent who had GPA of 4.0,Percent who had GPA between 3.75 and 3.99,Percent who had GPA between 3.50 and 3.74,Percent who had GPA between 3.25 and 3.49,Percent who had GPA between 3.00 and 3.24,Percent who had GPA between 2.50 and 2.99,Percent who had GPA between 2.0 and 2.49,Percent who had GPA between 1.0 and 1.99,Percent who had GPA below 1.0
+152,11041,Michigan Technological University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+153,11041,Michigan Technological University,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+154,11041,Michigan Technological University,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,8,8,8,8,8,8,8,8,8
+155,11041,Michigan Technological University,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,8,Percent who had GPA between 3.75 and 3.99,Percent who had GPA between 3.50 and 3.74,Percent who had GPA between 3.25 and 3.49,Percent who had GPA between 3.00 and 3.24,Percent who had GPA between 2.50 and 2.99,Percent who had GPA between 2.0 and 2.49,Percent who had GPA between 1.0 and 1.99,Percent who had GPA below 1.0
+156,11116,Rochester Institute of Technology,Rochester Institute of Technology,"One Lomb Memorial Dr, Rochester, New York, 14623, USA",2022-2023,44.00,79.00,95.40,,,,,,
+157,11116,Rochester Institute of Technology,University of Rochester,"300 Wilson Boulevard, New York, NY 14627-0251",2023-2024,23.5%,39.8%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+158,11117,University of New Hampshire-Main Campus,University of New Hampshire,"Durham, NH 03824",2022-2023,27.54%,16.46%,16.39%,15.40%,13.57%,10.40%,0.24%,,
+159,11118,University of San Francisco,University of San Francisco,"2130 Fulton Street, San Francisco, CA 94117-1080 USA",2022-2023,19.14%,24.87%,22.23%,18.36%,12.50%,2.84%,0.00%,0.06%,0.00%
+160,11118,University of San Francisco,University of San Diego,"5998 Alcala Park, California, 92110-2492",2023-2024,62.0%,23.0%,11.0%,3.0%,1.0%,0.0%,0.0%,0.0%,0.0%
+161,11118,University of San Francisco,San José State University,"One Washington Square, San Jose, California, 95192, United States",2023-2024,18.5%,19.5%,21.3%,17.1%,12.7%,10.2%,0.6%,0.0%,0.0%
+162,11119,University of South Carolina-Columbia,University of South Carolina,"Columbia, SC 29208 United States",2021-2022,14.12%,31.10%,27.14%,17.06%,7.64%,2.80%,0%,,
+163,11120,Iowa State University,Iowa State University,"Ames, IA 50011 USA",2022-2023,26.52%,27.36%,18.82%,11.92%,8.81%,6.10%,0.45%,0.02%,0.00%
+164,11120,Iowa State University,Iowa State University,"100 Enrollment Services Center, Ames, Iowa, 50011, United States",2023-2024,26.5%,28.9%,18.4%,12.8%,8.4%,4.7%,0.3%,0.0%,0.0%
+165,11121,University of Dayton,University of Dayton,"300 College Park, Dayton, OH 45469",2023-2024,0.0,20.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+166,11121,University of Dayton,University of Dayton,"300 College Park, Dayton, OH 45469",2022-2023,27%,56%,83%,17%,4%,,,,
+167,11121,University of Dayton,Husson University,"Bangor, ME 04401",2022-2023,0.00,0.00,0.00,16.00,14.00,12.00,3.00,1.00,0.00
+168,11121,University of Dayton,Husson University,"Bangor, ME 04401",2022-2023,0.00,0.00,0.00,16.00,14.00,12.00,3.00,1.00,0.00
+169,11297,DePaul University,Unknown University,Unknown Address,2023-2024,38.26,20.12,15.75,10.08,8.06,6.94,0.79,0.00,0.00
+170,11297,DePaul University,Unknown University,Unknown Address,2022-2023,37.72%,20.97%,15.01%,12.37%,6.93%,5.92%,1.08%,0.00%,0.00%
+171,11297,DePaul University,Unknown College,Unknown Address,2023-2024,0,0,0,0,0,0,0,0,0
+172,11297,DePaul University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+173,11297,DePaul University,San José State University,"One Washington Square, San Jose, California, 95192, United States",2023-2024,18.5%,19.5%,21.3%,17.1%,12.7%,10.2%,0.6%,0.0%,0.0%
+174,11297,DePaul University,San José State University,"One Washington Square, San Jose, California, 95192, United States",2023-2024,18.5%,19.5%,21.3%,17.1%,12.7%,10.2%,0.6%,0.0%,0.0%
+175,11298,Duquesne University,Duquesne University,"600 Forbes Avenue, Pittsburgh, PA 15282",2022-2023,36.81%,24.33%,19.57%,10.28%,5.25%,2.84%,0.85%,0.07%,0.00%
+176,11298,Duquesne University,Duquesne University,"600 Forbes Avenue, Pittsburgh, PA 15282",2021-2022,31.56%,23.47%,18.23%,15.05%,7.44%,3.68%,0.49%,0.08%,0.00%
+177,11298,Duquesne University,Carnegie Mellon University,"5000 Forbes Avenue, Pittsburgh, PA 15213",2023-2024,48.9%,40.9%,7.2%,2.3%,0.4%,0.4%,0.0%,0.0%,0.0%
+178,11298,Duquesne University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+179,11298,Duquesne University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,0.00,7.00,1.00,1.00,0.00,0.00,0.00
+180,11299,Howard University,Howard University,"2400 Sixth Street NW, Washington, DC, 20059, US",2021-2022,5.70%,37.53%,34.65%,15.24%,5.10%,1.46%,0.28%,0.04%,0.00%
+181,11299,Howard University,Howard University,"2400 Sixth Street NW, Washington, DC, 20059, US",2021-2022,6.40%,37.70%,33.80%,14.40%,7.40%,0.30%,,,
+182,11299,Howard University,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+183,11299,Howard University,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,0.0%,0.0%,0.0%,0.0%
+184,11300,University of Arizona,The University of Arizona,"PO Box 210066, Tucson, Pima, 85721, USA",2022-2023,0%,13%,12%,14%,1%,0%,0%,0%,0%
+185,11300,University of Arizona,The University of Arizona,"PO Box 210066, Tucson, AZ, 85721-0066, USA",2021-2022,15.75%,24.41%,16.52%,13.69%,11.32%,16.71%,1.59%,0.01%,0.00%
+186,11300,University of Arizona,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+187,11300,University of Arizona,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+188,11341,Clarkson University,Clark University,"950 Main Street, Worcester, MA 01610-1477",2021-2022,34%,26%,14%,11%,9%,6%,1%,,
+189,11341,Clarkson University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+190,11341,Clarkson University,Washington College,"300 Washington Ave, Chestertown, Maryland, 21620, United States",2023-2024,31.3%,21.3%,15.2%,11.7%,10.0%,7.8%,2.7%,,
+191,11341,Clarkson University,Washington College,"300 Washington Ave, Chestertown, Maryland, 21620, United States",2023-2024,31.3%,21.3%,15.2%,11.7%,10.0%,7.8%,2.7%,,
+192,11342,Colorado State University-Fort Collins,Unknown University,Unknown Address,2021-2022,30.3%,19.1%,Unknown,Unknown,Unknown,Unknown,Unknown,0.0%,0.0%
+193,11343,The New School,Western New England University,"1215 Wilbraham Road, Springfield, MA, 01119",2023-2024,36.43%,10.69%,12.66%,12.10%,11.11%,11.95%,4.92%,0.14%,0.00%
+194,11343,The New School,DeSales University,"2755 Station Avenue, Center Valley, PA 18034",2022-2023,23.46%,32.03%,15.50%,10.54%,11.92%,5.76%,0.79%,0.00%,0.00%
+195,11343,The New School,University of North Carolina at Chapel Hill,"Chapel Hill, NC 27599",2022-2023,95%,3%,1%,1%,0%,0%,0%,0%,0%
+196,11344,Hofstra University,Pitzer College,"1050 N. Mills Avenue, Claremont, California, 91711, United States",2023-2024,45.5%,33.7%,17.5%,2.0%,0.4%,0.8%,0.0%,0.0%,0.0%
+197,11344,Hofstra University,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+198,11344,Hofstra University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+199,11344,Hofstra University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+200,11345,University of Kentucky,University of Kentucky,"101 Main Building, Lexington, KY, 40506, United States",2021-2022,14.30%,33.20%,21.30%,13.60%,9.40%,7.00%,1.20%,0.00%,0.00%
+201,11345,University of Kentucky,University of Kentucky,"101 Main Building, Lexington, KY 40506-0001 USA",2021-2022,10.00%,20.00%,20.00%,20.00%,20.00%,10.00%,0.00%,0.00%,0.00%
+202,11415,Kansas State University,Kansas State University,"110 Anderson Hall, 919 Mid-Campus Drive North, Manhattan, KS 66506",2023-2024,10.63%,35.19%,22.73%,14.32%,9.56%,5.74%,1.56%,0.27%,0.00%
+203,11415,Kansas State University,Kansas State University,"110 Anderson Hall, 919 Mid-Campus Drive North, Manhattan, KS 66506",2022-2023,11.08%,34.92%,21.27%,15.37%,7.90%,5.99%,0.95%,0.19%,2.33%
+204,11415,Kansas State University,Kansas State University,"110 Anderson Hall, 919 Mid-Campus Drive North, Manhattan, KS 66506",2021-2022,11.38%,35.02%,20.55%,14.14%,8.52%,5.66%,1.50%,0.33%,2.90%
+205,11415,Kansas State University,West Texas A&M University,"PO Box 60999, Canyon, Texas, 79016, United States",2023-2024,18.6%,23.2%,20.3%,15.8%,12.9%,9.2%,0.0%,0.0%,0.0%
+206,11415,Kansas State University,West Texas A&M University,"PO Box 60999, Canyon, Texas, 79016, United States",2023-2024,18.6%,23.2%,20.3%,15.8%,12.9%,9.2%,0.0%,0.0%,0.0%
+207,11416,Louisiana State University and Agricultural & Mechanical College,Louisiana State University,"Baton Rouge, LA 70803",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+208,11416,Louisiana State University and Agricultural & Mechanical College,University at Buffalo,"12 Capen Hall, Buffalo, New York 14260-1660",2023-2024,19.7%,58.2%,21.1%,1.0%,0%,0%,0%,0%,0%
+209,11417,Mercer University,Pitzer College,"1050 N. Mills Avenue, Claremont, California, 91711, United States",2023-2024,45.5%,33.7%,17.5%,2.0%,0.4%,0.8%,0.0%,0.0%,0.0%
+210,11417,Mercer University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+211,11417,Mercer University,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,12.1%,16.0%,23.7%,16.1%,19.1%,12.1%,1.0%,0.0%,0.0%
+212,11417,Mercer University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+213,11418,New Jersey Institute of Technology,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+214,11418,New Jersey Institute of Technology,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+215,11419,Rutgers University-Newark,Rutgers University — Newark,"249 University Avenue, Newark, New Jersey 07102-1896 USA",2022-2023,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided
+216,11420,University of Arkansas,University of Arkansas,"Fayetteville, AR 72701, USA",2021-2022,29.02%,27.30%,21.17%,14.07%,6.30%,2.09%,0.04%,0.00%,0.00%
+217,11420,University of Arkansas,Arkansas State University,"P.O. Box 600, State University / AR / 72467 / USA",2022-2023,23.15%,21.57%,18.33%,13.88%,11.76%,8.07%,2.34%,0.38%,0.52%
+218,11471,Texas Tech University,Texas Tech University,"Broadway and University Avenue, Box 45005, Lubbock, Texas, 79409",2023-2024,4.30,37.90,36.40,15.70,4.10,1.30,0.20,0.00,0.00
+219,11471,Texas Tech University,Texas Tech University,"Broadway and University Avenue, Lubbock, TX 79409-5005",2022-2023,1.16%,31.44%,44.17%,16.82%,4.23%,1.99%,0.18%,0.01%,0.00%
+220,11472,Montclair State University,Montclair State University,"1 Normal Avenue, Montclair, New Jersey, 07042",2023-2024,7%,16%,20%,16%,20%,20%,1%,0%,0%
+221,11472,Montclair State University,Montclair State University,"Cole Hall Room 318, 1 Normal Avenue, Montclair, NJ 07042",2022-2023,,,,,,,,,
+222,11472,Montclair State University,Montclair State University,"1 Normal Avenue, Montclair, NJ 07042",2019-2020,1.33%,9.79%,17.39%,23.70%,23.28%,23.60%,0.75%,0.13%,0.03%
+223,11472,Montclair State University,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+224,11472,Montclair State University,Montana State University,"P.O. Box 172190, Bozeman, Montana 59717",2022-2023,21.13,22.23,19.25,12.96,9.92,11.05,2.74,0.73,0
+225,11472,Montclair State University,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+226,11472,Montclair State University,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+227,11473,Mississippi State University,Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+228,11473,Mississippi State University,Mississippi State University,"P.O. Box 6018, Mississippi State, MS 39762 U.S.A.",2022-2023,10%,20%,30%,15%,10%,10%,5%,0%,0%
+229,11473,Mississippi State University,University of Southern Mississippi,"118 College Drive, Hattiesburg, Mississippi, 39406, USA",2023-2024,14.56%,21.58%,15.92%,14.21%,12.97%,14.03%,6.72%,0%,0%
+230,11474,Lipscomb University,Lipscomb University,"One University Park Dr., Nashville, Tennessee, 37204-3951, USA",2022-2023,Not provided,Not provided,Not provided,8.32,4.82,3.65,0.73,0.00,0.00
+231,11474,Lipscomb University,Lipscomb University,"One University Park Dr., Nashville TN 37204-3951 USA",2020-2021,43.98%,22.59%,14.26%,9.66%,5.20%,3.57%,0.59%,0.15%,
+232,11474,Lipscomb University,Lipscomb University,"One University Park Dr, Nashville, TN 37204-3951, USA",2017-2018,45.75%,19.65%,12.89%,8.96%,10.22%,2.52%,0.00%,0.00%,0.00%
+233,11474,Lipscomb University,Northern Michigan University,"1401 Presque Isle Avenue, Marquette, Michigan, 49855, United States",2023-2024,7,0,0,0,0,0,0,0,0
+234,11474,Lipscomb University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+235,11475,Ball State University,Ball State University,"2000 W. University Ave., Muncie, IN 47306",2021-2022,21.84%,15.31%,17.16%,16.83%,15.72%,13.14%,0.00%,0.00%,0.00%
+236,11475,Ball State University,Ball State University,"2000 W University Ave, Muncie, IN, 47306",2021-2022,21.10%,15.35%,16.57%,16.45%,16.33%,14.16%,0.03%,0.00%,0.00%
+237,11475,Ball State University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+238,11475,Ball State University,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+239,11475,Ball State University,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,Percent who had GPA of 4.0,Percent who had GPA between 3.75 and 3.99,Percent who had GPA between 3.50 and 3.74,Percent who had GPA between 3.25 and 3.49,Percent who had GPA between 3.00 and 3.24,Percent who had GPA between 2.50 and 2.99,Percent who had GPA between 2.0 and 2.49,Percent who had GPA between 1.0 and 1.99,Percent who had GPA below 1.0
+240,11476,Edgewood College,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+241,11476,Edgewood College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+242,11477,Florida Institute of Technology,Unknown University,Unknown Address,2021-2022,9%,26%,23%,18%,14%,11%,1%,,
+243,11477,Florida Institute of Technology,Stephen F. Austin State University,"1936 North Street, Nacogdoches, Texas, 75962, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+244,11477,Florida Institute of Technology,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,20%,25%,30%,15%,5%,3%,1%,0.5%,0.5%
+245,11478,University of Idaho,University of Idaho,"875 Perimeter Drive MS 2282, Moscow, Idaho, 83844-2282, United States",2023-2024,7,0,0,0,0,0,0,0,0
+246,11478,University of Idaho,University of Idaho,"875 Perimeter Drive MS 2282, Moscow, ID 83844-2282",2022-2023,74%,29.1%,19.9%,15.3%,13.6%,11.5%,3.1%,0.1%,0.1%
+247,11478,University of Idaho,University of Idaho,"PO Box 442282, Moscow, ID 83844-2282",2000-2001,0%,0%,0%,0%,78.3%,21.3%,0%,0%,0%
+248,11478,University of Idaho,University of New Hampshire,"3 Garrison Avenue, Durham, New Hampshire, 03824, United States",2023-2024,8,8,8,8,8,8,8,8,8
+249,11478,University of Idaho,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+250,11478,University of Idaho,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+251,11479,University of Louisville,University of Louisville,"2301 South Third Street Louisville, KY, 40292-0001",2022-2023,35.7,17.6,16.0,11.2,10.2,8.4,0.9,0.0,0.0
+252,11479,University of Louisville,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+253,11480,University of Wyoming,University of Wyoming,"1000 E. University Ave, Laramie, WY, 82071, USA",2021-2022,11.3%,28.8%,21.8%,15.1%,11.0%,10.0%,2.0%,0.1%,0.0%
+254,11480,University of Wyoming,University of Wyoming,"1000 E. University Ave., Laramie, WY 82071, USA",2022-2023,11.9%,29.0%,20.4%,14.5%,11.3%,11.0%,1.8%,0.1%,0.0%
+255,11480,University of Wyoming,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+256,11480,University of Wyoming,University of Wyoming,"1000 E. University Ave, Laramie, WY, 82071, USA",2019-2020,39.7%,19.0%,16.1%,12.0%,10.9%,2.2%,0.1%,0.0%,0.0%
+257,11480,University of Wyoming,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,12.1%,16.0%,23.7%,16.1%,19.1%,12.1%,1.0%,0.0%,0.0%
+258,11480,University of Wyoming,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+259,11584,University of Central Florida,University of Central Florida,"4365 Andromeda Loop N, Orlando, Florida, 32816-0065, United States",2023-2024,71.0%,16.8%,10.7%,1.1%,0.2%,0.2%,0.1%,,
+260,11584,University of Central Florida,University of Central Florida,"4000 Central Florida Blvd, Orlando, FL 32816",2022-2023,16.3%,10.0%,1.2%,0.2%,0.3%,0%,0%,0%,0%
+261,11584,University of Central Florida,University of Central Florida,"4000 Central Florida Blvd, Orlando, FL 32816",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+262,11584,University of Central Florida,University of Central Florida,"4000 Central Florida Blvd, Orlando, FL 32816",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+263,11584,University of Central Florida,University of Central Florida,"4000 Central Florida Blvd, Orlando, FL 32816",2023-2024,35%,72%,96%,4%,0%,0%,0%,0%,0%
+264,11585,University of New Mexico-Main Campus,Unknown University,Unknown Address,2021-2022,13.88%,16.83%,23.04%,12.20%,15.11%,16.18%,2.68%,0.08%,0.00%
+265,11585,University of New Mexico-Main Campus,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+266,11586,Andrews University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+267,11586,Andrews University,Carnegie Mellon University,"5000 Forbes Avenue, Pittsburgh, PA 15213",2023-2024,48.9%,40.9%,7.2%,2.3%,0.4%,0.4%,0.0%,0.0%,0.0%
+268,11586,Andrews University,Carnegie Mellon University,"5000 Forbes Avenue, Pittsburgh, PA 15213",2023-2024,48.9%,40.9%,7.2%,2.3%,0.4%,0.4%,0.0%,0.0%,0.0%
+269,11587,Azusa Pacific University,Azusa Pacific University,"901 E. Alosta Ave., Azusa, CA 91702",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+270,11587,Azusa Pacific University,Azusa Pacific University,"901 E. Alosta Ave., Azusa, CA 91702-7000",2020-2021,40.10%,17.80%,12.10%,11.90%,8.00%,8.60%,1.50%,,
+271,11587,Azusa Pacific University,Azusa Pacific University,"PO Box 7000, Azusa, CA 91702-7000",2017-2018,52.20%,17.90%,16.00%,8.80%,5.00%,0.00%,0.00%,0.00%,0.10%
+272,11587,Azusa Pacific University,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+273,11588,University of Maine,University of Maine,"168 College Ave, Orono, ME 04469",2022-2023,29.09%,8.84%,14.36%,12.01%,18.67%,9.39%,7.59%,0.05%,
+274,11589,West Virginia University,College of Applied Human Sciences,Not Provided,2023-2024,10%,18%,13%,13%,16%,20%,2%,5%,3%
+275,11589,West Virginia University,West Virginia University,"President's Office, PO Box 6201, Morgantown, WV, 26506 US",2017-2018,6%,20%,18%,17%,15%,12%,8%,3%,1%
+276,11589,West Virginia University,University of Miami,"1306 Stanford Drive, Suite 1210, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+277,11589,West Virginia University,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,12.1%,16.0%,23.7%,16.1%,19.1%,12.1%,1.0%,0.0%,0.0%
+278,11590,Widener University,Widener University,"One University Place, Chester, PA 19013",2023-2024,3%,0%,0%,0%,0%,0%,0%,0%,0%
+279,11590,Widener University,Widener University,"One University Place, Chester, PA 19013",2021-2022,19%,17%,19%,16%,13%,12%,4%,0%,0%
+280,11590,Widener University,Widener University,"One University Place, Chester, PA 19013",2019-2020,27.00%,25.00%,15.00%,17.00%,13.00%,3.00%,0.00%,0.00%,0.00%
+281,11592,North Dakota State University-Main Campus,University of North Dakota,"3501 University Ave. STOP 8357, Grand Forks, North Dakota, 58202, United States",2023-2024,0,0,0,0,0,0,0,0,0
+282,11592,North Dakota State University-Main Campus,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+283,11593,Pace University-New York,Pace University,"One Pace Plaza, New York, 10038, United States",2023-2024,33.2%,,19.2%,16.4%,18.3%,9.7%,2.5%,0.1%,0.0%
+284,11593,Pace University-New York,Pace University,"One Pace Plaza, New York, NY 10038",2021-2022,28.82%,0.00%,23.03%,20.61%,18.71%,7.64%,1.19%,0.00%,0.00%
+285,11593,Pace University-New York,Pace University,"One Pace Plaza, New York, NY 10038",2021-2022,23.7%,0.0%,19.3%,21.6%,22.2%,11.5%,1.7%,0.0%,0.0%
+286,11593,Pace University-New York,Pace University,"One Pace Plaza, New York, NY 10038",2020-2021,0.39%,21.46%,19.22%,14.45%,18.32%,22.13%,4.03%,0.00%,0.00%
+287,11687,Arizona State University-Tempe,Arizona State University Campus Immersion,"P.O. Box 871004, Tempe, AZ 85287-1004",2022-2023,10.5%,,,,,,,,
+288,11687,Arizona State University-Tempe,Arizona State University Campus Immersion,"University Drive & Mill Avenue, Tempe, AZ 85287",2023-2024,25.7%,29.1%,19.0%,17.2%,8.6%,8.1%,0.0%,0.1%,0.0%
+289,11687,Arizona State University-Tempe,Arizona State University Campus Immersion,"P.O. Box 871004, Tempe, AZ 85287-1004",2021-2022,9.1%,26.9%,24.7%,17.3%,12.9%,8.1%,0.9%,0.1%,0.0%
+290,11688,Robert Morris University,Carnegie Mellon University,"5000 Forbes Avenue, Pittsburgh, PA 15213",2023-2024,48.9%,40.9%,7.2%,2.3%,0.4%,0.4%,0.0%,0.0%,0.0%
+291,11689,Suffolk University,Brandeis University,"415 South St., Waltham, MA 02453",2023-2024,54%,33%,9%,3%,1%,0%,0%,0%,0%
+292,11689,Suffolk University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+293,11689,Suffolk University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+294,11690,University of Hartford,University of Hartford,"200 Bloomfield Avenue, West Hartford, CT 06117",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+295,11691,Bowling Green State University-Main Campus,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+296,11691,Bowling Green State University-Main Campus,University of Pikeville,"147 Sycamore St, Pikeville, KY 41501",2023-2024,19,27,15,9,9,12,6,3,0
+297,11691,Bowling Green State University-Main Campus,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+298,11692,University of Houston,University of Houston-Downtown,"One Main Street, Office of Admissions, Suite GSB308, Houston, TX 77002 USA",2023-2024,10.41%,9.66%,15.41%,18.49%,17.54%,24.86%,3.08%,0.55%,0.00%
+299,11692,University of Houston,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+300,11693,Western Michigan University,Western Michigan University,"1903 W Michigan Ave, Kalamazoo, MI 49008-5200 USA",2023-2024,16.9%,21.1%,17.9%,15.9%,11.5%,15.6%,1.0%,0.1%,0.0%
+301,11693,Western Michigan University,University of Michigan,"500 S. State Street, Ann Arbor, MI 48109 USA",2023-2024,Percent who had GPA of 4.0,Percent who had GPA between 3.75 and 3.99,Percent who had GPA between 3.50 and 3.74,Percent who had GPA between 3.25 and 3.49,Percent who had GPA between 3.00 and 3.24,Percent who had GPA between 2.50 and 2.99,Percent who had GPA between 2.0 and 2.49,Percent who had GPA between 1.0 and 1.99,Percent who had GPA below 1.0
+302,11693,Western Michigan University,Northern Michigan University,"1401 Presque Isle Avenue, Marquette, Michigan, 49855, United States",2023-2024,7,0,0,0,0,0,0,0,0
+303,11693,Western Michigan University,Western Michigan University,"1903 W Michigan Ave, Kalamazoo, MI 49008-5211 USA",2021-2022,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided
+304,11694,Indiana University-Purdue University-Indianapolis,Purdue University,"475 Stadium Drive, West Lafayette, Indiana, 47906, United States",2023-2024,36.3%,33.0%,,,,,,,
+305,11694,Indiana University-Purdue University-Indianapolis,Purdue University,"Ernest C. Young Hall, 155 S Grant St, West Lafayette, IN 47907, USA",2022-2023,12.71%,10.77%,4.02%,0.24%,0.07%,0.00%,0.00%,0.00%,0.00%
+306,11695,Lesley University,Bradley University,"1501 W. Bradley Ave., Peoria, Illinois, 61625, United States",2023-2024,39.3%,20.4%,,,,,,,
+307,11695,Lesley University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+308,11697,University of Colorado Denver,University of Colorado Denver | Anschutz Medical Campus,"P.O. Box 173364, Denver, Colorado 80217, USA",2021-2022,14.33%,18.84%,19.20%,18.11%,15.13%,12.58%,1.09%,0.15%,0.58%
+309,11697,University of Colorado Denver,University of Denver,"2199 S. University Blvd., Denver, CO 80208 USA",2022-2023,0.00%,23.00%,17.00%,9.00%,5.00%,1.00%,0.00%,0.00%,0.00%
+310,11829,University of Cincinnati-Main Campus,Unknown University,Unknown Address,2021-2022,29.59%,22.33%,18.68%,13.43%,9.20%,6.32%,0.41%,0.05%,0.00%
+311,11829,University of Cincinnati-Main Campus,University of Cincinnati,"P.O. Box 210063, Cincinnati, Ohio, 45221, United States",2021-2022,24.66%,21.15%,21.26%,15.73%,10.50%,6.15%,0.53%,0.02%,0.00%
+312,11830,University of Mississippi,Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+313,11830,University of Mississippi,University of Southern Mississippi,"118 College Drive, Hattiesburg, Mississippi, 39406, USA",2023-2024,14.56%,21.58%,15.92%,14.21%,12.97%,14.03%,6.72%,0%,0%
+314,11831,George Mason University,George Mason University,"4400 University Drive, MSN 2F2, Fairfax, Virginia, 22030-4444, United States",2023-2024,27.9%,22.5%,21.0%,17.9%,9.5%,1.1%,0.0%,0.0%,0.0%
+315,11832,Oregon State University,Unknown University,Unknown Address,2021-2022,13.00%,34.00%,24.00%,14.00%,11.00%,4.00%,0.00%,0.00%,0.00%
+316,11832,Oregon State University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+317,11833,Washington State University,Washington State University,"P.O. Box 641067, Pullman, WA 99164-1067 USA",2022-2023,3.96%,27.49%,23.81%,20.05%,14.06%,10.05%,0.58%,0.00%,0.00%
+318,11834,Adelphi University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+319,11834,Adelphi University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+320,11835,Ohio University-Main Campus,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+321,11836,San Diego State University,San Diego State University,"5500 Campanile Drive, San Diego, CA 92182-7455",2022-2023,41.0%,29.5%,18.1%,7.8%,2.8%,0.8%,,,
+322,11836,San Diego State University,San Diego State University,"5500 Campanile Drive, San Diego, CA 92182-7455",2021-2022,33.8%,31.5%,19.6%,9.6%,4.1%,1.25%,0.17%,,
+323,11836,San Diego State University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+324,11837,Saint John Fisher College,St. John Fisher University,"3690 East Ave., Rochester, NY 14618",2023-2024,4.42%,31.42%,35.52%,10.31%,9.66%,7.69%,0.98%,0.00%,0.00%
+325,11837,Saint John Fisher College,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+326,11837,Saint John Fisher College,St. John's University,"8000 Utopia Parkway, Queens, NY 11439",2013-2014,22.00%,17.00%,18.00%,18.00%,16.00%,9.00%,0.00%,0.00%,0.00%
+327,11837,Saint John Fisher College,Pace University,"One Pace Plaza, New York, NY 10038",2021-2022,28.82%,0.00%,23.03%,20.61%,18.71%,7.64%,1.19%,0.00%,0.00%
+328,11838,SUNY at Albany,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+329,11838,SUNY at Albany,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+330,11838,SUNY at Albany,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+331,11838,SUNY at Albany,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+332,11850,University of Rhode Island,University of Rhode Island,"Kingston, RI 02881",2021-2022,18,17,31,14,13,6,1,0,0
+333,11850,University of Rhode Island,University of Rhode Island,"Kingston, RI 02881",2019-2020,20%,16%,16%,17%,16%,15%,0%,0%,0%
+334,11850,University of Rhode Island,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,7%,0%,0%,0%,0%,0%,0%,0%,0%
+335,11850,University of Rhode Island,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,7%,0%,0%,0%,0%,0%,0%,0%,0%
+336,11850,University of Rhode Island,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,7%,0%,0%,0%,0%,0%,0%,0%,0%
+337,11851,University of South Florida-Main Campus,University of South Florida,"4202 E. Fowler Ave, Tampa, Florida, 33620, United States",2023-2024,80.3%,12.6%,5.2%,1.5%,0.3%,0.1%,,,
+338,11851,University of South Florida-Main Campus,University of South Florida,"4202 E. Fowler Ave, Tampa, FL 33620",2021-2022,62.00%,18.00%,12.00%,7.00%,2.00%,0.00%,0.00%,0.00%,0.00%
+339,11851,University of South Florida-Main Campus,University of South Florida,"4202 E. Fowler Ave, Tampa, FL 33620",2021-2022,61,16,13,7,2,0,0,0,0
+340,11851,University of South Florida-Main Campus,University of South Florida,"4202 E. Fowler Ave, Tampa, FL 33620",2020-2021,55.00%,18.00%,14.00%,9.00%,3.00%,0.00%,0.00%,0.00%,0.00%
+341,11852,Biola University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+342,11852,Biola University,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+343,11853,Maryville University of Saint Louis,Unknown University,Unknown Address,2021-2022,6,10,15,20,20,20,5,3,1
+344,11853,Maryville University of Saint Louis,Maryville University of St. Louis,"650 Maryville University Drive, St. Louis, MO 63141 USA",2021-2022,27.43%,22.12%,17.88%,10.09%,9.20%,11.68%,1.59%,,
+345,11853,Maryville University of Saint Louis,Maryville University of Saint Louis,"650 Maryville University Drive, St. Louis, MO 63141",2020-2021,3%,20%,22%,21%,17%,14%,3%,0%,0%
+346,11853,Maryville University of Saint Louis,Washington University in St. Louis,"MSC 1089-105-05, One Brookings Drive, St. Louis, MO 63130-4899",2022-2023,67%,24%,6%,3%,,,,,
+347,11853,Maryville University of Saint Louis,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+348,11853,Maryville University of Saint Louis,Lawrence University,"711 E. Boldt Way, Appleton, WI, 54911",2023-2024,23.90%,31.45%,19.81%,14.47%,6.60%,3.46%,0.31%,,
+349,11853,Maryville University of Saint Louis,Lawrence University,"711 E. Boldt Way, Appleton, WI, 54911",2023-2024,23.90%,31.45%,19.81%,14.47%,6.60%,3.46%,0.31%,,
+350,11854,Missouri University of Science and Technology,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+351,11854,Missouri University of Science and Technology,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+352,11854,Missouri University of Science and Technology,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+353,11855,St John's University (NY),Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+354,11855,St John's University (NY),Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,0.0%,10.0%,20.0%,20.0%,20.0%,20.0%,10.0%,0.0%,0.0%
+355,11855,St John's University (NY),Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,10%,15%,20%,25%,15%,10%,5%,0%,0%
+356,11856,Virginia Commonwealth University,Virginia Commonwealth University,"Richmond, VA 23284-2527",2022-2023,30.95%,17.49%,17.71%,15.68%,11.96%,6.06%,0.12%,0.02%,0.00%
+357,11856,Virginia Commonwealth University,Pitzer College,"1050 N. Mills Avenue, Claremont, California, 91711, United States",2023-2024,45.5%,33.7%,17.5%,2.0%,0.4%,0.8%,0.0%,0.0%,0.0%
+358,11856,Virginia Commonwealth University,Virginia Commonwealth University,"Richmond, Virginia, USA",2023-2024,20%,25%,30%,15%,5%,3%,1%,0.5%,0.5%
+359,11857,Union University,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+360,11858,University of Hawaii at Manoa,University of Hawai‘i at Manoa,"2500 Campus Road, Honolulu, HI 96822, USA",2023-2024,26.1%,,,,10.4%,,,,
+361,11858,University of Hawaii at Manoa,University of Hawai‘i at Manoa,"2500 Campus Road, Honolulu, HI 96822, USA",2023-2024,26%,35%,16%,11%,9%,3%,0%,0%,0%
+362,11858,University of Hawaii at Manoa,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+363,11858,University of Hawaii at Manoa,U.S. News Best Colleges,Not Provided,2023-2024,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided
+364,11858,University of Hawaii at Manoa,Northern Michigan University,"1401 Presque Isle Avenue, Marquette, Michigan, 49855, United States",2023-2024,14.1%,20.5%,14.5%,13.2%,10.6%,15.5%,9.5%,2.1%,0.0%
+365,11871,The University of Texas at Dallas,The University of Texas at Dallas,"800 West Campbell Rd, Richardson, TX 75080-3021, USA",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+366,11872,Illinois State University,Illinois State University,"Normal, IL 61790",2022-2023,24.89%,17.05%,18.34%,14.88%,14.68%,9.89%,0.28%,0.00%,0.00%
+367,11873,Immaculata University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+368,11874,Oklahoma State University-Main Campus,Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,0.0%,10.0%,20.0%,20.0%,20.0%,20.0%,10.0%,0.0%,0.0%
+369,11875,University of California-Merced,Unknown University,Unknown Address,2021-2022,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+370,11875,University of California-Merced,"University of California, Merced","5200 North Lake Road, Merced, CA 95343",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+371,11875,University of California-Merced,"University of California, Merced","5200 North Lake Road, Merced, CA 95343",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+372,11876,University of Illinois at Chicago,University of Illinois at Chicago,"1200 West Harrison Street, Chicago, IL 60607",2021-2022,2.74%,17.57%,23.22%,23.45%,21.10%,11.80%,0.12%,0.00%,0.00%
+373,11877,University of La Verne,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+374,11877,University of La Verne,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+375,11878,University of Massachusetts-Lowell,University of Massachusetts Lowell,"One University Avenue, Lowell, MA 01854-2882 USA",2023-2024,29.36%,17.67%,18.76%,16.14%,12.92%,5.05%,0.10%,0.00%,0.00%
+376,11878,University of Massachusetts-Lowell,University of Massachusetts Amherst,"University Admissions Center, Amherst, Massachusetts",2023-2024,6,0,0,0,0,0,0,0,0
+377,11879,Seattle Pacific University,Seattle Pacific University,"3307 3rd Ave. W., Seattle, WA 98119",2022-2023,10.22%,30.11%,22.12%,15.99%,11.15%,10.04%,0.37%,0.00%,0.00%
+378,11879,Seattle Pacific University,"University of California, San Diego","9500 Gilman Drive, La Jolla, California, 92093, United States",2023-2024,23,23,23,23,23,23,23,23,23
+379,11880,University of Alabama at Birmingham,The University of Alabama at Birmingham,"1720 2nd Avenue South, Birmingham, AL 35294",2022-2023,40.21%,18.22%,15.37%,10.15%,8.25%,7.43%,0.32%,0.00%,0.05%
+380,11880,University of Alabama at Birmingham,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+381,13209,University of North Dakota,University of North Dakota,"3501 University Ave. STOP 8357, Grand Forks, North Dakota, 58202, United States",2023-2024,0%,0%,0%,0%,0%,0%,0%,0%,0%
+382,13209,University of North Dakota,University of North Dakota,"3501 University Ave. STOP 8357, Grand Forks, ND 58202, USA",2022-2023,9.90%,32.60%,22.54%,13.40%,12.06%,9.03%,0.41%,0.06%,0.00%
+383,13209,University of North Dakota,University of North Dakota,"3501 University Ave STOP 8357, Grand Forks ND 58202, USA",2021-2022,9.64%,31.51%,20.37%,14.77%,11.94%,10.73%,1.04%,0.00%,0.00%
+384,13209,University of North Dakota,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,27.4%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+385,13209,University of North Dakota,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+386,13210,University of North Carolina at Charlotte,University of North Carolina at Chapel Hill,"Chapel Hill, NC",2023-2024,21.0%,25.0%,18.0%,15.0%,10.0%,7.0%,3.0%,1.0%,0.0%
+387,13210,University of North Carolina at Charlotte,University of North Carolina at Chapel Hill,"Chapel Hill, NC 27599",2022-2023,95%,3%,1%,1%,0%,0%,0%,0%,0%
+388,13211,New Mexico State University-Main Campus,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+389,13212,Rowan University,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+390,13212,Rowan University,Rowan University,"201 Mullica Hill Road, Glassboro, NJ, 08028, USA",2021-2022,19.36%,12.15%,20.87%,14.34%,15.30%,17.02%,0.96%,0.00%,0.00%
+391,13212,Rowan University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+392,13213,Nova Southeastern University,University of Miami,"1306 Stanford Drive, Suite 1210, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+393,17437,Williams College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+394,17977,Pomona College,Pomona College,"333 N College Way, Claremont, California, 91711, United States",2022-2023,0,0,0,0,0,0,0,0,0
+395,17977,Pomona College,Unknown University,Unknown Address,2021-2022,39.04%,21.48%,15.84%,11.71%,0%,0%,0%,0%,0%
+396,17977,Pomona College,Aquinas College,"Grand Rapids, Michigan, USA",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+397,17977,Pomona College,Pomona College,"333 N. College Way, Claremont, CA 91711",2023-2024,25%,30%,20%,15%,5%,3%,1%,0.5%,0.5%
+398,18256,Amherst College,University of Massachusetts Amherst,"University Admissions Center, Amherst, Massachusetts",2023-2024,6,0,0,0,0,0,0,0,0
+399,18265,Wellesley College,Wellesley College,"106 Central Street, Wellesley, MA 02481-8203, USA",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+400,18265,Wellesley College,Wellesley College,"106 Central Street, Wellesley, MA 02481-8203, USA",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+401,18265,Wellesley College,Wellesley College,"106 Central Street, Wellesley, Massachusetts, 02481, United States",2023-2024,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+402,18265,Wellesley College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+403,18265,Wellesley College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+404,18267,Swarthmore College,Swarthmore College,"500 College Avenue, Swarthmore, PA, 19081, United States",2023-2024,0,0,0,0,0,0,0,0,0
+405,18267,Swarthmore College,Swarthmore College,"500 College Avenue, Swarthmore, PA 19081",2022-2023,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+406,18267,Swarthmore College,Swarthmore College,"500 College Avenue, Swarthmore, PA 19081",2000-2001,Data not available,Data not available,Data not available,Data not available,Data not available,Data not available,Data not available,Data not available,Data not available
+407,18269,Bowdoin College,Bowdoin College,"255 Maine Street, Brunswick, ME, 04011-8448, USA",2023-2024,100%,100%,100%,0%,0%,0%,0%,0%,0%
+408,18269,Bowdoin College,Bowdoin College,"255 Maine Street, Brunswick, ME 04011-8448 USA",2022-2023,100%,,,,,,,,
+409,18269,Bowdoin College,Bowdoin College,"255 Maine Street, Brunswick, ME 04011-8448 USA",2019-2020,63%,30%,7%,0%,0%,0%,0%,0%,0%
+410,18298,Middlebury College,Middlebury College,"Middlebury, VT, USA",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+411,18298,Middlebury College,Middlebury College,"Middlebury, VT 05753",2020-2021,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+412,18298,Middlebury College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+413,18302,Davidson College,Davidson College,"209 Ridge Rd Box 5000, Davidson, North Carolina, 28035, United States",2023-2024,39.00,34.00,23.00,3.00,0.70,0.30,0.00,0.00,0.00
+414,18302,Davidson College,Davidson College,"405 N Main St, Davidson, NC 28035, United States",2023-2024,27%,19%,20%,16%,10%,6%,2%,0%,0%
+415,18302,Davidson College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+416,18303,Claremont McKenna College,Claremont McKenna College,"500 E 9th Street, Claremont, CA 91711",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+417,18303,Claremont McKenna College,Claremont McKenna College,"500 E 9th Street, Claremont, CA 91711",2023-2024,0.0%,0.0%,0.0%,0.0%,9.7%,0.0%,0.0%,0.0%,0.0%
+418,18303,Claremont McKenna College,Claremont McKenna College,"500 E 9th Street, Claremont, CA 91711",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+419,18304,Carleton College,Carleton College,"1 North College Street, Northfield, MN 55057",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+420,18340,Washington and Lee University,Washington and Lee University,"204 W. Washington Street, Lexington, Virginia, 24450, United States",2023-2024,81.4%,98.2%,100.0%,33.3%,,,,,
+421,18340,Washington and Lee University,Washington and Lee University,"204 W. Washington Street, Lexington VA 24450",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+422,18340,Washington and Lee University,Washington and Lee University,"204 W. Washington Street, Lexington VA 24450 USA",2020-2021,NA,NA,NA,NA,NA,NA,NA,NA,NA
+423,18342,Colby College,Colby College,"4000 Mayflower Hill, Waterville, ME, 04901, USA",2014-2015,61%,86%,96%,4%,0%,0%,0%,0%,0%
+424,18343,Harvey Mudd College,Unknown College,Unknown Address,2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+425,18343,Harvey Mudd College,Fashion Institute of Technology,"227 West 27th Street, New York, New York, 10001 - 5992, United States",2023-2024,13.7%,25.2%,21.2%,17.0%,11.4%,7.4%,3.8%,0.3%,0.0%
+426,18343,Harvey Mudd College,Harvey Mudd College,"301 Platt Blvd, Claremont, CA 91711",2020-2021,89%,9%,2%,,,,,,
+427,18343,Harvey Mudd College,Pitzer College,"1050 N. Mills Avenue, Claremont, California, 91711, United States",2023-2024,45.5%,33.7%,17.5%,2.0%,0.4%,0.8%,0.0%,0.0%,0.0%
+428,18344,Smith College,Smith College,"Elm Street, Northampton, MA, 01063, USA",2021-2022,79.3%,13.2%,7.0%,0.5%,0.0%,0.0%,0.0%,0.0%,0.0%
+429,18344,Smith College,Smith College,"Elm Street, Northampton, MA, 01063, USA",2021-2022,74.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+430,18344,Smith College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+431,18347,Vassar College,Vassar College,"124 Raymond Avenue, Poughkeepsie, NY 12604",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+432,18364,Haverford College,Haverford College,"370 Lancaster Avenue, Haverford, Pennsylvania, 19041, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+433,18364,Haverford College,University of Miami,"1306 Stanford Drive, Suite 1210, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+434,18365,Hamilton College,Hamilton College,"198 College Hill Rd, Clinton, NY 13323",2023-2024,78.85%,21.15%,0%,0%,0%,0%,0%,0%,0%
+435,18365,Hamilton College,Hamilton College,"198 College Hill Rd, Clinton, NY 13323",2022-2023,100%,,,,,,,,
+436,18365,Hamilton College,Hamilton College,"198 College Hill Rd, Clinton, NY 13323",2021-2022,21%,21%,21%,21%,21%,0%,0%,0%,0%
+437,18365,Hamilton College,Hamilton College,"198 College Hill Road, Clinton, NY, 13323, USA",2020-2021,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+438,18366,Grinnell College,Grinnell College,"1227 Park Street, 1st Floor, Grinnell, IA 50112",2022-2023,,,,,,,,,
+439,18366,Grinnell College,Grinnell College,"1227 Park Street, 1st Floor, Grinnell, IA 50112",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+440,18366,Grinnell College,Grinnell College,"1227 Park Street, 1st Floor, Grinnell, IA 50112",2020-2021,not available,not available,not available,not available,not available,not available,not available,not available,not available
+441,18369,The United States Military Academy at West Point,United States Military Academy at West Point,"646 Swift Road, West Point, NY 10996",2022-2023,70.4%,10.7%,10.6%,4.5%,2.7%,0.6%,0.4%,0.1%,
+442,18369,The United States Military Academy at West Point,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+443,18369,The United States Military Academy at West Point,United States Military Academy,"646 Swift Road, West Point, NY 10996",2020-2021,63.5%,15.7%,10.9%,4.2%,4.0%,1.4%,0.25%,0.08%,
+444,18369,The United States Military Academy at West Point,Western New England University,"1215 Wilbraham Road, Springfield, MA, 01119",2023-2024,36.43%,10.69%,12.66%,12.10%,11.11%,11.95%,4.92%,0.14%,0.00%
+445,18372,Colgate University,Unknown University,Unknown Address,2021-2022,30.54%,41.63%,20.81%,5.05%,1.60%,0.37%,,,
+446,18372,Colgate University,Colgate University,"13 Oak Drive, Hamilton, NY 13346 USA",2021-2022,6%,11%,17%,19%,20%,23%,4%,0%,0%
+447,18372,Colgate University,Colgate University,"13 Oak Drive, Hamilton, NY 13346 USA",2020-2021,15.71%,28.93%,29.45%,18.32%,5.63%,1.96%,,,
+448,18372,Colgate University,Barton College,"PO Box 5000, Wilson, North Carolina, 27893, United States",2023-2024,2.10,16.40,19.60,14.90,15.70,21.70,7.50,,
+449,18372,Colgate University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+450,21219,Macalester College,Macalester College,"1600 Grand Avenue, Saint Paul, Minnesota, 55105, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+451,21219,Macalester College,Macalester College,"1600 Grand Avenue, St. Paul, MN 55105",2021-2022,na,na,na,na,na,na,na,na,na
+452,21220,Oberlin College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+453,21221,Scripps College,Scripps College,"1030 Columbia, Claremont, California, 91711, USA",2022-2023,,,,3%,1%,,,,
+454,21221,Scripps College,Scripps College,"1030 Columbia Ave, Claremont, CA 91711 USA",2021-2022,96.7%,0.0%,0.0%,0.0%,2.1%,1.2%,0.0%,0.0%,0.0%
+455,21221,Scripps College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+456,21221,Scripps College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+457,21223,Bryn Mawr College,Bryn Mawr College,"101 North Merion Ave, Bryn Mawr, PA 19010",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+458,21223,Bryn Mawr College,Bryn Mawr College,"101 North Merion Ave, Bryn Mawr, PA 19010",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+459,21223,Bryn Mawr College,Bryn Mawr College,"101 North Merion Ave, Bryn Mawr, PA 19010",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+460,21223,Bryn Mawr College,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+461,21223,Bryn Mawr College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+462,21224,United States Air Force Academy,United States Air Force Academy,"2304 Cadet Drive USAF Academy, CO 80840",2020-2021,24.4,60.5,8.7,5.5,6,3,0,0,0
+463,21224,United States Air Force Academy,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+464,21224,United States Air Force Academy,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+465,21224,United States Air Force Academy,Unknown University,Unknown Address,2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+466,21224,United States Air Force Academy,Unknown University,Unknown Address,2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+467,21232,United States Naval Academy,United States Naval Academy,"Annapolis, MD",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+468,21232,United States Naval Academy,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+469,21232,United States Naval Academy,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+470,21232,United States Naval Academy,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+471,21233,Wesleyan University,Wesleyan University,"45 Wyllys Avenue, Middletown, CT 06459",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+472,21233,Wesleyan University,Wesleyan University,"70 Wyllys Avenue, Middletown, CT 06459",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+473,21234,Bates College,Bates College,"2 Andrews Road, Lewiston, Maine, 04240, United States",2023-2024,7%,0%,0%,0%,0%,0%,0%,0%,0%
+474,21234,Bates College,Bates College,"2 Andrews Road, Lewiston, Maine 04240",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+475,21234,Bates College,Bates College,"2 Andrews Road, Lewiston, Maine 04240",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+476,21234,Bates College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+477,21234,Bates College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,27.4%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+478,21235,Colorado College,Colorado College,"14 E. Cache La Poudre St., Colorado Springs, Colorado, 80903, USA",2023-2024,14,36,23,21,6,,,,
+479,21235,Colorado College,Colorado College,"14 E. Cache La Poudre St. Colorado Springs, CO 80903",2022-2023,44.00%,32.00%,15.00%,7.00%,1.00%,1.00%,0.00%,0.00%,0.00%
+480,21235,Colorado College,University of Colorado Boulder,"552 UCB, Boulder, CO 80309-0552",2023-2024,41%,1%,19%,11%,59%,3%,0%,0%,0%
+481,21235,Colorado College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+482,21236,University of Richmond,University of Richmond,"410 Westhampton Way, University of Richmond, VA 23173",2021-2022,14.6%,35.4%,31.2%,15.2%,2.7%,0.9%,0.0%,0.0%,0.0%
+483,21236,University of Richmond,Unknown University,Unknown Address,2023-2024,24.6%,42.4%,24.3%,5.3%,2.0%,1.3%,0.1%,0.0%,0.0%
+484,21236,University of Richmond,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+485,21237,Barnard College,Barnard College,"3009 Broadway, New York, New York, 10027, USA",2022-2023,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported
+486,21237,Barnard College,Barnard College,"New York, NY, USA",2021-2022,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported
+487,21237,Barnard College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+488,21237,Barnard College,Barnard College,"3009 Broadway, New York, NY 10027, USA",2020-2021,not reported,not reported,not reported,not reported,not reported,not reported,not reported,not reported,not reported
+489,21238,Kenyon College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+490,21238,Kenyon College,University of Alaska Fairbanks,"1731 South Chandalar Drive, Fairbanks, Alaska, 99775, USA",2022-2023,0.00,0.00,0.00,16.03,8.58,17.16,4.74,1.80,0.00
+491,21291,Bucknell University,Bucknell University,"1 Dent Drive, Lewisburg, Pennsylvania, 17837, United States",2023-2024,8.45%,34.95%,29.61%,17.57%,7.86%,1.50%,0.10%,0.00%,0.00%
+492,21291,Bucknell University,Bucknell University,"Lewisburg, PA 17837",2022-2023,10.06%,0%,0%,0%,8.70%,3.38%,0%,0%,0%
+493,21291,Bucknell University,Barton College,"PO Box 5000, Wilson, North Carolina, 27893, United States",2023-2024,2.20,16.70,20.00,15.30,16.00,22.20,7.60,0.00,0.00
+494,21291,Bucknell University,Bucknell University,"1 Dent Drive, Lewisburg, PA 17837",2021-2022,27%,27%,19%,15%,9%,4%,0%,0%,0%
+495,21292,College of the Holy Cross,College of the Holy Cross,"1 College St., Worcester, Massachusetts, 01610-2395, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+496,21292,College of the Holy Cross,College of the Holy Cross,"1 College Street, Worcester, MA 01610-2395",2022-2023,0.00%,,,,,,,,
+497,21292,College of the Holy Cross,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+498,21293,Pitzer College,Pitzer College,"1050 N. Mills Ave, Claremont, CA 91711",2022-2023,46.48%,30.63%,15.49%,6.34%,1.06%,0.00%,0.00%,0.00%,0.00%
+499,21293,Pitzer College,Pitzer College,"1050 N. Mills Avenue, Claremont, California, 91711, United States",2023-2024,45.5%,33.7%,17.5%,2.0%,0.4%,0.8%,0.0%,0.0%,0.0%
+500,21293,Pitzer College,Pitzer College,"1050 N. Mills Ave, Claremont, CA 91711",2020-2021,41.31%,28.64%,21.60%,6.57%,0.94%,0.94%,0.00%,0.00%,0.00%
+501,21293,Pitzer College,Pitzer College,"1050 N. Mills Ave., Claremont, CA 91711",2017-2018,68.99%,18.99%,6.98%,4.26%,0.78%,0.00%,0.00%,0.00%,0.00%
+502,21294,Lafayette College,Lafayette College,"730 High St, Easton, Pennsylvania, 18042, USA",2022-2023,0.00%,0.00%,0.00%,0.00%,12.07%,4.64%,0.13%,0.00%,0.00%
+503,21294,Lafayette College,Lafayette College,"730 High St., Easton, PA 18042 U.S.A.",2021-2022,30.00%,26.00%,20.00%,13.00%,7.00%,3.00%,1.00%,0.00%,0.00%
+504,21295,Mount Holyoke College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+505,21296,Union College,Union College,"807 Union Street, Schenectady, NY 12308",2023-2024,14.09%,18.78%,,,,,,,
+506,21296,Union College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+507,21296,Union College,Rochester Institute of Technology,"One Lomb Memorial Dr, Rochester, New York, 14623, USA",2022-2023,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+508,21297,Franklin and Marshall College,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+509,21297,Franklin and Marshall College,Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+510,21315,Soka University of America,University of Rochester,"300 Wilson Boulevard, New York, 14627-0251",2023-2024,23.5%,39.8%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+511,21316,The University of the South,University of South Dakota,"414 E. Clark Street, Vermillion, SD, 57069, United States",2023-2024,9.69,30.13,21.49,13.07,1.19,10.74,2.55,1.13,
+512,21316,The University of the South,Washington University in St. Louis,"MSC 1089-105-05, One Brookings Drive, St. Louis, MO 63130-4899",2022-2023,67%,24%,6%,3%,,,,,
+513,21317,Skidmore College,Skidmore College,"815 North Broadway, Saratoga Springs, NY 12866",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+514,21317,Skidmore College,Skidmore College,"815 North Broadway, Saratoga Springs, NY 12866",2021-2022,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+515,21317,Skidmore College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+516,21318,Whitman College,Whitman College,"345 Boyer Ave, Walla Walla, WA 99324",2021-2022,10.90%,41.30%,26.20%,10.90%,6.00%,4.40%,0.30%,0.00%,0.00%
+517,21318,Whitman College,Davidson College,"209 Ridge Rd Box 5000, Davidson, North Carolina, 28035, United States",2023-2024,39.00,34.00,23.00,3.00,0.70,0.30,0.00,0.00,0.00
+518,21319,Occidental College,Occidental College,"1600 Campus Road M-18, Los Angeles, CA 90041",2022-2023,68%,30%,2%,0%,0%,0%,0%,0%,0%
+519,21319,Occidental College,Occidental College,"1600 Campus Road M-18, Los Angeles, CA 90041",2023-2024,7%,28%,18%,18%,5%,1%,,,
+520,21319,Occidental College,Occidental College,"1600 Campus Road M-18, Los Angeles, CA 90041",2022-2023,68%,30%,2%,,,,,,
+521,21319,Occidental College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+522,21320,Trinity College,Trinity College,"300 Summit St., Hartford, CT 06106",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+523,21320,Trinity College,Trinity College,"300 Summit St., Hartford, CT 06106",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+524,21320,Trinity College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,27.4%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+525,21320,Trinity College,Trinity College,"300 Summit St., Hartford, CT 06106",2020-2021,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+526,21320,Trinity College,Northern Michigan University,"1401 Presque Isle Avenue, Marquette, Michigan, 49855, United States",2023-2024,7,0,0,0,0,0,0,0,0
+527,21320,Trinity College,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+528,21320,Trinity College,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+529,21321,Bard College,Barnard College,"3009 Broadway, New York, New York, 10027, USA",2022-2023,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported
+530,21321,Bard College,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+531,21321,Bard College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+532,21322,Centre College,Centre College,"600 W. Walnut St., Danville, KY 40422 USA",2021-2022,52.00%,,,,,0.00%,0.00%,0.00%,
+533,21324,Connecticut College,Connecticut College,"270 Mohegan Avenue, New London, CT 06320",2023-2024,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+534,21324,Connecticut College,Connecticut College,"270 Mohegan Avenue, New London, CT 06320",2022-2023,31.8%,27.4%,21.2%,12.0%,5.2%,2.4%,0.0%,0.0%,0.0%
+535,21324,Connecticut College,University of Connecticut,"Storrs, CT 06269",2022-2023,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+536,21324,Connecticut College,Connecticut College,"270 Mohegan Avenue, New London, CT 06320",2021-2022,23.4%,23.9%,23.9%,12.9%,10.5%,4.6%,0.7%,0.0%,0.0%
+537,21324,Connecticut College,The University of Texas Permian Basin,"4901 E University Blvd, Odessa, TX, 79762, USA",2023-2024,7.0%,9.5%,12.5%,7.8%,8.9%,5.5%,0.2%,0.0%,0.0%
+538,21325,Denison University,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+539,21334,Gettysburg College,Gettysburg College,"300 N. Washington Street, Gettysburg, PA 17325 USA",2022-2023,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+540,21334,Gettysburg College,Gettysburg College,"300 N. Washington St., Gettysburg, PA, 17325, USA",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+541,21334,Gettysburg College,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+542,21334,Gettysburg College,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+543,28877,Santa Monica College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+544,28877,Santa Monica College,Santa Monica College,"1900 Pico Blvd, Santa Monica, CA 90405",2023-2024,20%,25%,30%,15%,5%,3%,1%,0.5%,0.5%
+545,28877,Santa Monica College,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+546,28877,Santa Monica College,Rowan University,"201 Mullica Hill Road, Glassboro, New Jersey, 08028, USA",2023-2024,19.32%,11.74%,20.14%,12.76%,14.06%,20.53%,1.45%,0.00%,0.00%
+547,28892,Diablo Valley College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+548,28892,Diablo Valley College,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+549,28985,Riverside City College,"University of California, Riverside","900 University Avenue, Riverside, CA 92521",2023-2024,40.9%,,,,,,,,
+550,29000,De Anza College,Barton College,"PO Box 5000, Wilson, North Carolina, 27893, United States",2023-2024,2.10,16.40,19.60,14.90,15.70,21.70,7.50,,
+551,29000,De Anza College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+552,29350,College of San Mateo,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+553,29350,College of San Mateo,College of San Mateo,"1700 West Hillsdale Boulevard, San Mateo, CA 94402-3757",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+554,29388,Foothill College,Foothill College,"12345 El Monte Road, Los Altos Hills, CA 94022",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+555,29388,Foothill College,Santa Clara University,"500 El Camino Real, Santa Clara, California, 95053, United States of America",2023-2024,15.00,45.00,7.00,11.00,4.00,1.00,0.00,0.00,0.00
+556,29388,Foothill College,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+557,29408,Irvine Valley College,Irvine Valley College,"5500 Irvine Center Drive, Irvine, CA 92618",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+558,29408,Irvine Valley College,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+559,29431,MiraCosta College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+560,29431,MiraCosta College,Unknown University,Unknown Address,2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+561,29470,Glendale Community College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+562,29483,Pasadena City College,California Institute of Technology,"1200 E. California Blvd., Pasadena, California, 91125, United States of America",2022-2023,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+563,29483,Pasadena City College,University of Miami,"1306 Stanford Drive, Suite 1210, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+564,29681,Shoreline Community College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+565,29681,Shoreline Community College,Washington College,"300 Washington Ave, Chestertown, Maryland, 21620, United States",2023-2024,31.3%,21.3%,15.2%,11.7%,10.0%,7.8%,2.7%,,
+566,30031,Citrus College,Citrus College,"1000 W. Foothill Blvd., Glendora, CA 91741",2023-2024,4%,10%,20%,30%,20%,10%,5%,1%,0%
+567,30031,Citrus College,Citrus College,"1000 W Foothill Blvd, Glendora, CA 91741",2023-2024,20%,25%,30%,15%,5%,3%,1%,0.5%,0.5%
+568,30031,Citrus College,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+569,30031,Citrus College,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+570,30032,Saddleback College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,21.0%,5.1%,1.3%,0.0%,0.0%,0.0%,0.0%,0.0%
+571,30032,Saddleback College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+572,30032,Saddleback College,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+573,30033,Green River College,"University of California, Riverside","900 University Avenue, Riverside, CA 92521",2023-2024,40.9%,,,,,,,,
+574,30047,Clark College,Clark University,"950 Main Street, Worcester, Massachusetts, 01610-1477, United States",2023-2024,31%,24%,21%,13%,7%,4%,0%,0%,0%
+575,30049,Edmonds College,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+576,30049,Edmonds College,Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,10%,15%,20%,25%,20%,5%,3%,1%,1%
+577,30051,Bellevue College,Bellevue College,"3000 Landerholm Circle SE, Bellevue, WA 98007-6484",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+578,30051,Bellevue College,Bellevue College,"Bellevue, WA",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+579,30052,Highline College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,-,-
+580,30052,Highline College,Fashion Institute of Technology,"227 West 27th Street, New York, New York, 10001 - 5992, United States",2023-2024,13.7%,25.2%,21.2%,17.0%,11.4%,7.4%,3.8%,0.3%,0.0%
+581,30052,Highline College,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+582,30058,Seattle Central College,Central College,"812 University Street, Pella, IA 50219",2021-2022,20.06%,30.09%,17.19%,15.47%,8.60%,8.02%,0.57%,,
+583,30061,College of Marin,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+584,30061,College of Marin,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.07%,0.00%,0.00%
+585,30062,Fulton-Montgomery Community College,FMCC,Not Provided,2023-2024,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided,Not Provided
+586,30062,Fulton-Montgomery Community College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+587,30063,Monroe Community College,Monroe Community College,"Rochester, New York",2023-2024,67,24,9,0,0,0,0,0,0
+588,30063,Monroe Community College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+589,30067,Piedmont Virginia Community College,Piedmont Virginia Community College,"501 College Dr, Charlottesville, VA 22902",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+590,30067,Piedmont Virginia Community College,Virginia Polytechnic Institute and State University,"800 Drillfield Drive, Blacksburg, Virginia, 24061, United States",2023-2024,72%,18%,9%,3%,2%,0.39%,0%,0%,0%
+591,30067,Piedmont Virginia Community College,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+592,30067,Piedmont Virginia Community College,Piedmont Virginia Community College,"501 College Dr, Charlottesville, VA 22902",2023-2024,10%,15%,20%,25%,15%,10%,3%,1%,1%
+593,30067,Piedmont Virginia Community College,Piedmont Virginia Community College,"501 College Dr, Charlottesville, VA 22902",2023-2024,10%,15%,20%,25%,15%,10%,3%,1%,1%
+594,30068,Bergen Community College,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+595,30068,Bergen Community College,San José State University,"One Washington Square, San Jose, California, 95192, United States",2023-2024,18.5%,19.5%,21.3%,17.1%,12.7%,10.2%,0.6%,0.0%,0.0%
+596,30068,Bergen Community College,San José State University,"One Washington Square, San Jose, California, 95192, United States",2023-2024,18.5%,19.5%,21.3%,17.1%,12.7%,10.2%,0.6%,0.0%,0.0%
+597,30069,Ivy Tech Community College,Ivy Tech Community College of Indiana,"Indiana, USA",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+598,30069,Ivy Tech Community College,Ivy Tech Community College,"Indiana, USA",2023-2024,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+599,30069,Ivy Tech Community College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+600,30069,Ivy Tech Community College,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+601,30070,Elgin Community College,Florida Polytechnic University,"4700 Research Way, Lakeland, Florida, 33805, United States",2023-2024,64.0%,13.0%,10.0%,8.0%,3.0%,1.0%,1.0%,0.0%,0.0%
+602,30070,Elgin Community College,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+603,30071,Community College of Allegheny County,Community College of Allegheny County,"800 Ridge Road, Pittsburgh, PA 15212 USA",2021-2022,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+604,30071,Community College of Allegheny County,Carnegie Mellon University,"5000 Forbes Avenue, Pittsburgh, PA 15213",2023-2024,48.9%,40.9%,7.2%,2.3%,0.4%,0.4%,0.0%,0.0%,0.0%
+605,30071,Community College of Allegheny County,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
+606,30072,Cleveland State Community College,Unknown,Unknown,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+607,30072,Cleveland State Community College,Unknown College,Unknown Address,2023-2024,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+608,30073,Columbus State Community College,Columbus State Community College,"550 East Spring St, Columbus, OH 43215",2023-2024,15%,25%,30%,20%,5%,3%,1%,0.5%,0.5%
+609,30073,Columbus State Community College,Columbus State University,"4225 University Ave, Columbus, GA, 31907, USA",2022-2023,10%,20%,30%,15%,10%,10%,3%,1%,1%
+610,30073,Columbus State Community College,Columbus State Community College,"550 E Spring St, Columbus, OH 43215",2023-2024,10%,20%,30%,15%,10%,10%,3%,1%,1%
+611,30073,Columbus State Community College,Columbus State Community College,"550 E Spring St, Columbus, OH 43215",2023-2024,15%,20%,25%,15%,10%,10%,3%,1%,1%
+612,34268,Wright State University-Main Campus,Wright State University,"3640 Colonel Glenn Hwy., Dayton, OH 45435-0001, United States of America",2021-2022,19.50%,15.30%,14.13%,11.63%,12.52%,16.63%,9.84%,0.45%,0.00%
+613,34268,Wright State University-Main Campus,University of Miami,"P.O. Box 248025, Coral Gables, Florida, 33124, U.S.A.",2023-2024,0%,45%,23%,9%,2%,1%,0%,0%,0%
+614,34270,Regent University,Regent University,"1000 Regent University Drive, Virginia Beach, Virginia, 23464, USA",2022-2023,25.00,24.00,16.00,9.00,8.00,9.00,5.00,4.00,
+615,34270,Regent University,Unknown College,Unknown Address,2022-2023,25.00,24.00,16.00,9.00,8.00,9.00,5.00,4.00,0.00
+616,34270,Regent University,Regent University,"1000 Regent University Drive, Virginia Beach, Virginia, 23464, USA",2022-2023,0%,0%,0%,0%,0%,0%,0%,0%,0%
+617,34270,Regent University,Unknown University,Unknown Address,2022-2023,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+618,34270,Regent University,Harvard University,"86 Brattle Street, Cambridge, Massachusetts, 02138, United States",2023-2024,74.02%,19.67%,4.10%,1.07%,0.82%,0.25%,0.00%,0.07%,0.00%
+619,34270,Regent University,Williams College,"880 Main Street, Williamstown, Massachusetts, 01267, United States",2023-2024,72.6%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+620,34272,The University of Montana,The University of Montana - Missoula,"32 Campus Drive, Missoula, MT 59812-0002, USA",2023-2024,8,22,19,13,12,13,7,1,0
+621,34272,The University of Montana,Mississippi State University,"75 B.S. Hood Road, Mississippi State, Mississippi, 39762, United States",2023-2024,0.0%,10.0%,20.0%,20.0%,20.0%,20.0%,10.0%,0.0%,0.0%
+622,34274,Wayne State University,Wayne State University,"42 W. Warren Ave., Detroit, MI 48202",2021-2022,16.36%,20.33%,15.08%,14.95%,11.92%,16.49%,4.87%,,
+623,34274,Wayne State University,Wayne State University,"42 W. Warren Ave., Detroit, MI. 48202",2020-2021,12.87%,19.34%,18.49%,14.99%,13.45%,16.74%,4.04%,0.07%,
+624,34274,Wayne State University,Stanford University,"450 Jane Stanford Way, Stanford, CA 94305",2023-2024,75.2%,15.5%,5.8%,2.9%,0.7%,,,,
+625,34276,Utah State University,University of Utah,"201 Presidents Circle, Salt Lake City, Utah, 84112, United States",2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+626,34276,Utah State University,Unknown University,Unknown Address,2023-2024,11.0%,39.0%,24.0%,17.0%,7.0%,2.0%,0.0%,0.0%,0.0%
+627,34276,Utah State University,Mount Marty University,"1105 W 8th Street, Yankton, SD 57078",2023-2024,13%,22%,30%,13%,10%,11%,1%,0%,0%
